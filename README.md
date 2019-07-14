@@ -20,7 +20,7 @@ This application is for people who wants product recommendations based on their 
 ## Prerequisites
 This application is written in PHP and uses CodeIgniter as its framework. Thus, you will need:
 
-* [PHP 5.6 or newer][6]
+* [PHP 5.3.7 or newer][6]
 * a web server capable of running PHP, for example [Apache][1] or [IIS][4]
 * a database driver such as *mysqli*, *postgre* and *sqlite3* (please refer to [CodeIgniter's server requirements][5] for information which database drivers are specifically supported)
 
